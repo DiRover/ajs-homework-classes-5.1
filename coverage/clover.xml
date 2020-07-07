@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1593963744368" clover="3.2.0">
-  <project timestamp="1593963744369" name="All files">
-    <metrics statements="29" coveredstatements="28" conditionals="13" coveredconditionals="9" methods="7" coveredmethods="7" elements="49" coveredelements="44" complexity="0" loc="29" ncloc="29" packages="1" files="7" classes="7"/>
+<coverage generated="1594147360184" clover="3.2.0">
+  <project timestamp="1594147360184" name="All files">
+    <metrics statements="29" coveredstatements="28" conditionals="13" coveredconditionals="12" methods="7" coveredmethods="7" elements="49" coveredelements="47" complexity="0" loc="29" ncloc="29" packages="1" files="7" classes="7"/>
     <file name="Bowman.js" path="E:\IT_and_programing\Frontend\8.0_Homeworks\Task-5.1\src\js\Bowman.js">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="3" count="1" type="stmt"/>
@@ -9,11 +9,11 @@
       <line num="7" count="1" type="stmt"/>
     </file>
     <file name="Character.js" path="E:\IT_and_programing\Frontend\8.0_Homeworks\Task-5.1\src\js\Character.js">
-      <metrics statements="11" coveredstatements="10" conditionals="13" coveredconditionals="9" methods="1" coveredmethods="1"/>
+      <metrics statements="11" coveredstatements="10" conditionals="13" coveredconditionals="12" methods="1" coveredmethods="1"/>
       <line num="2" count="6" type="cond" truecount="5" falsecount="0"/>
       <line num="3" count="5" type="stmt"/>
       <line num="5" count="1" type="stmt"/>
-      <line num="7" count="5" type="cond" truecount="4" falsecount="4"/>
+      <line num="7" count="5" type="cond" truecount="7" falsecount="1"/>
       <line num="8" count="5" type="stmt"/>
       <line num="10" count="0" type="stmt"/>
       <line num="12" count="5" type="stmt"/>
